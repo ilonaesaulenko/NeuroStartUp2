@@ -17,5 +17,10 @@
 Дизайн-студия имени Слишком Известного Персонажа
 Ниже пример кода из нашего приложения:
 
-```<p style="font-family: Arial, sans-serif; color: red;">Awesome</p>```
+```css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
+```
 
